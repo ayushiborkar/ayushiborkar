@@ -1,5 +1,4 @@
-# Profile
-Hello my name is Ayushi Borkar
+# Hello my name is Ayushi Borkar
 <br><br>
 <a href="https://www.linkedin.com/in/ayushi-borkar-387a52168">
   <img align="left" alt="Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
