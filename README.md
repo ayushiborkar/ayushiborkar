@@ -17,6 +17,7 @@
 # <p align="center"><h4 align="center"><samp> Data Science, Machine Learning </samp></h4></p>
 
 <div>
+  <img align="right" src="https://github.com/ayushiborkar/ayushiborkar/blob/main/data_scene.gif" width="40%"/>
   <br>
 - 👨‍🎓 <samp><b>B.Tech in Electrical and Electronics Engrineering (2016-2020) from Government Engineering College Raipur, India</b>
 </div>
