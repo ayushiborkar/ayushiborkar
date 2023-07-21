@@ -32,21 +32,34 @@ Google Data Analytics Certificate Professional
 ##
 <h3><b><samp>Skills</samp></b></h3>
 
+![MsExcel](https://img.shields.io/badge/MsExcel-4479A1?style=flat-square&logo=MsExcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3776AB?style=flat-square&logo=SQL&logoColor=white)
+![R](https://img.shields.io/badge/R-4479A1?style=flat-square&logo=R&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
-<span>
-<img src="https://github.com/ayushiborkar/ayu/blob/main/imgs/python.svg" alt="drawing" width="50"/>
-<img src="https://github.com/ayushiborkar/ayu/blob/main/imgs/mysql.svg" alt="drawing" width="50"/>
+<span> 
+<img src="https://github.com/ayushiborkar/ayushiborkar/blob/main/images/ms-excel.png" alt="drawing" width="50"/>
+<img src="https://github.com/ayushiborkar/ayushiborkar/blob/main/images/sql.png" alt="drawing" width="50"/>
+<img src="https://github.com/ayushiborkar/ayu/blob/main/images/r-lang.jpg" alt="drawing" width="70"/>
+<img src="https://github.com/ayushiborkar/ayu/blob/main/images/python-5.svg" alt="drawing" width="50"/>
   </span>
 
   ##
   <h3><b><samp>Platforms</samp></b></h3>
   
   ![BigQuery](https://img.shields.io/badge/Bigquery-4285F4?style=flat-square&logo=Bigquery&logoColor=white)
-  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-007ACC?style=flat-square&logo=Jupyter-Notebook&logoColor=white)
+  ![Tableau](https://img.shields.io/badge/Tableau-4285F4?style=flat-square&logo=Tableau&logoColor=white)
+  ![Jupyter_Notebook](https://img.shields.io/badge/Jupyter_Notebook-007ACC?style=flat-square&logo=Jupyter-Notebook&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+  ![Power_BI](https://img.shields.io/badge/Power_BI-4479A1?style=flat-square&logo=Power-BI&logoColor=white)
 
   <span>
+<img src="https://github.com/ayushiborkar/ayushiborkar/blob/main/images/google-cloud-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/ayushiborkar/ayu/blob/main/images/kaggle.png" alt="drawing" width="70"/>
+<img src="https://github.com/ayushiborkar/ayu/blob/main/images/tableau.png" alt="drawing" width="50"/>
+<img src="https://github.com/ayushiborkar/ayu/blob/main/images/Jupyter_logo.png" alt="drawing" width="50"/>
+<img src="https://github.com/ayushiborkar/ayushiborkar/blob/main/images/mysql-6.svg" alt="drawing" width="50"/>
+<img src="https://github.com/ayushiborkar/ayu/blob/main/images/powerbi.png" alt="drawing" width="80"/>
   </span>
   <hr>
   
