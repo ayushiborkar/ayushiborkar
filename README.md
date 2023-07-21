@@ -39,8 +39,8 @@ Google Data Analytics Certificate Professional
 <span> 
 <img src="https://github.com/ayushiborkar/ayushiborkar/blob/main/images/ms-excel.png" alt="drawing" width="50"/>
 <img src="https://github.com/ayushiborkar/ayushiborkar/blob/main/images/sql.png" alt="drawing" width="50"/>
-<img src="https://github.com/ayushiborkar/ayu/blob/main/images/r-lang.jpg" alt="drawing" width="70"/>
 <img src="https://github.com/ayushiborkar/ayu/blob/main/images/python-5.svg" alt="drawing" width="50"/>
+<img src="https://github.com/ayushiborkar/ayu/blob/main/images/r-lang.jpg" alt="drawing" width="70"/>
   </span>
 
   ##
