@@ -34,7 +34,6 @@ Google Data Analytics Certificate Professional
 
 ![MsExcel](https://img.shields.io/badge/MsExcel-4479A1?style=flat-square&logo=MsExcel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-3776AB?style=flat-square&logo=SQL&logoColor=white)
-![R](https://img.shields.io/badge/R-4479A1?style=flat-square&logo=R&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 <span> 
@@ -55,11 +54,11 @@ Google Data Analytics Certificate Professional
 
   <span>
 <img src="https://github.com/ayushiborkar/ayushiborkar/blob/main/images/google-cloud-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/ayushiborkar/ayu/blob/main/images/kaggle.png" alt="drawing" width="70"/>
 <img src="https://github.com/ayushiborkar/ayu/blob/main/images/tableau.png" alt="drawing" width="50"/>
 <img src="https://github.com/ayushiborkar/ayu/blob/main/images/Jupyter_logo.png" alt="drawing" width="50"/>
 <img src="https://github.com/ayushiborkar/ayushiborkar/blob/main/images/mysql-6.svg" alt="drawing" width="50"/>
 <img src="https://github.com/ayushiborkar/ayu/blob/main/images/powerbi.png" alt="drawing" width="80"/>
+<img src="https://github.com/ayushiborkar/ayu/blob/main/images/kaggle.png" alt="drawing" width="70"/>
   </span>
   <hr>
   
