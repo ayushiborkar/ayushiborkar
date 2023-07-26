@@ -26,7 +26,7 @@
 
 <div>
 <h3><b><samp>Certificates:</samp></b></h3>
-Google Data Analytics Certificate Professional
+Google Data Analytics Professional Certificate 
 </div>
 
 ##
