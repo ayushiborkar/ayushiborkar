@@ -3,11 +3,14 @@
 <a href="https://www.linkedin.com/in/ayushi-borkar-387a52168">
   <img align="left" alt="Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/ayushiborkar19/">
-  <img align="left" alt="Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.kaggle.com/ayushiborkar">
+  <img align="left" alt="kaggle" width="100px" src="https://img.shields.io/badge/kaggle-E4405F?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 <a href="https://www.coursera.org/user/4595ed35a2170f3fa593b2fbd2cfe252">
   <img align="left" alt="Coursera" width="100px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/ayushiborkar19/">
+  <img align="left" alt="Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.cloudskillsboost.google/public_profiles/8cafa979-ec4b-4ade-b1db-dad4e6b58094">
   <img align="left" alt="Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
