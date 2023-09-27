@@ -70,6 +70,7 @@ Google Data Analytics Professional Certificate
   <span>
 <a href="https://github.com/users/ayushiborkar/projects/13">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushiborkar&repo=Basic-cpp"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushiborkar&repo=statistics"/>
 </a>
   </span>
 
