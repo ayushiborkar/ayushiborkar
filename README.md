@@ -53,14 +53,16 @@ Google Data Analytics Professional Certificate
   <h3><b><samp>Platforms</samp></b></h3>
   
   ![BigQuery](https://img.shields.io/badge/Bigquery-4285F4?style=flat-square&logo=Bigquery&logoColor=white)
-
- <a href="https://public.tableau.com/app/profile/ayushi5056/vizzes">  
  
-   ![Tableau](https://img.shields.io/badge/Tableau-4285F4?style=flat-square&logo=Tableau&logoColor=white)
- </a>
-  
+  ![Tableau](https://img.shields.io/badge/Tableau-4285F4?style=flat-square&logo=Tableau&logoColor=white) 
+<a href="https://public.tableau.com/app/profile/ayushi5056/vizzes">
+<img src="https://github.com/ayushiborkar/ayu/blob/main/images/tableau.png" alt="drawing" width="50"/>
+</a>
+
   ![Jupyter_Notebook](https://img.shields.io/badge/Jupyter_Notebook-007ACC?style=flat-square&logo=Jupyter-Notebook&logoColor=white)
+ 
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+ 
   ![Power_BI](https://img.shields.io/badge/Power_BI-4479A1?style=flat-square&logo=Power-BI&logoColor=white)
 
   <span>
