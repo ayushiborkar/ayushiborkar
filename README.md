@@ -68,9 +68,6 @@ Google Data Analytics Professional Certificate
   <span>
 <img src="https://github.com/ayushiborkar/ayushiborkar/blob/main/images/google-cloud-1.svg" alt="drawing" width="50"/>
 
-<a href="https://public.tableau.com/app/profile/ayushi5056/vizzes">
-<img src="https://github.com/ayushiborkar/ayu/blob/main/images/tableau.png" alt="drawing" width="50"/>
-</a>
 <img src="https://github.com/ayushiborkar/ayu/blob/main/images/Jupyter_logo.png" alt="drawing" width="50"/>
 <img src="https://github.com/ayushiborkar/ayushiborkar/blob/main/images/mysql-6.svg" alt="drawing" width="50"/>
 <img src="https://github.com/ayushiborkar/ayu/blob/main/images/powerbi.png" alt="drawing" width="80"/>
