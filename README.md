@@ -9,6 +9,9 @@
 <a href="https://www.coursera.org/user/4595ed35a2170f3fa593b2fbd2cfe252">
   <img align="left" alt="Coursera" width="100px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
 </a>
+<a href="https://public.tableau.com/app/profile/ayushi5056/vizzes">
+  <img align="left" alt="Tableau" width="100px" src="https://img.shields.io/badge/Tableau-E4405F?style=for-the-badge&logo=tableau&logoColor=white" />
+</a>
 <a href="https://www.instagram.com/ayushiborkar19/">
   <img align="left" alt="Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
