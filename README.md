@@ -15,9 +15,6 @@
 <a href="https://www.cloudskillsboost.google/public_profiles/8cafa979-ec4b-4ade-b1db-dad4e6b58094">
   <img align="left" alt="Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
 </a>
-<a href="https://www.instagram.com/ayushiborkar19/">
-  <img align="left" alt="Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 <br><br>
 
 # <p align="center"><h4 align="center"><samp> Data Science, Machine Learning </samp></h4></p>
@@ -55,11 +52,14 @@ Google Data Analytics Professional Certificate
   ![BigQuery](https://img.shields.io/badge/Bigquery-4285F4?style=flat-square&logo=Bigquery&logoColor=white)
  
   ![Tableau](https://img.shields.io/badge/Tableau-4285F4?style=flat-square&logo=Tableau&logoColor=white) 
-<a href="https://public.tableau.com/app/profile/ayushi5056/vizzes">
-<img src="https://github.com/ayushiborkar/ayu/blob/main/images/tableau.png" alt="drawing" width="50"/>
-</a>
+      <a href="https://public.tableau.com/app/profile/ayushi5056/vizzes">
+      <img src="https://github.com/ayushiborkar/ayu/blob/main/images/tableau.png" alt="drawing" width="50"/>
+      </a>
 
   ![Jupyter_Notebook](https://img.shields.io/badge/Jupyter_Notebook-007ACC?style=flat-square&logo=Jupyter-Notebook&logoColor=white)
+      <a>
+      <img src="https://github.com/ayushiborkar/ayu/blob/main/images/Jupyter_logo.png" alt="drawing" width="50"/>
+      </a>
  
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
  
@@ -68,7 +68,7 @@ Google Data Analytics Professional Certificate
   <span>
 <img src="https://github.com/ayushiborkar/ayushiborkar/blob/main/images/google-cloud-1.svg" alt="drawing" width="50"/>
 
-<img src="https://github.com/ayushiborkar/ayu/blob/main/images/Jupyter_logo.png" alt="drawing" width="50"/>
+
 <img src="https://github.com/ayushiborkar/ayushiborkar/blob/main/images/mysql-6.svg" alt="drawing" width="50"/>
 <img src="https://github.com/ayushiborkar/ayu/blob/main/images/powerbi.png" alt="drawing" width="80"/>
 <img src="https://github.com/ayushiborkar/ayu/blob/main/images/kaggle.png" alt="drawing" width="70"/>
