@@ -57,7 +57,7 @@ Google Data Analytics Professional Certificate
       </a>
 
   ![Jupyter_Notebook](https://img.shields.io/badge/Jupyter_Notebook-007ACC?style=flat-square&logo=Jupyter-Notebook&logoColor=white)
-      <a>
+  --> &nbsp; <a>
       <img src="https://github.com/ayushiborkar/ayu/blob/main/images/Jupyter_logo.png" alt="drawing" width="50"/>
       </a>
  
