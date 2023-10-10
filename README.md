@@ -50,12 +50,12 @@ Google Data Analytics Professional Certificate
   <h3><b><samp>Platforms</samp></b></h3>
   
   ![BigQuery](https://img.shields.io/badge/Bigquery-4285F4?style=flat-square&logo=Bigquery&logoColor=white)
-  --> &nbsp <a href="https://www.cloudskillsboost.google/public_profiles/8cafa979-ec4b-4ade-b1db-dad4e6b58094">
+  --> &nbsp; <a href="https://www.cloudskillsboost.google/public_profiles/8cafa979-ec4b-4ade-b1db-dad4e6b58094">
       <img src="https://github.com/ayushiborkar/ayushiborkar/blob/main/images/google-cloud-1.svg" alt="drawing" width="50"/>
       </a>
       
   ![Tableau](https://img.shields.io/badge/Tableau-4285F4?style=flat-square&logo=Tableau&logoColor=white) 
-  --> &nbsp <a href="https://public.tableau.com/app/profile/ayushi5056/vizzes">
+  --> &nbsp; <a href="https://public.tableau.com/app/profile/ayushi5056/vizzes">
       <img src="https://github.com/ayushiborkar/ayu/blob/main/images/tableau.png" alt="drawing" width="50"/>
       </a>
 
