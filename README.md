@@ -12,11 +12,11 @@
 <a href="https://public.tableau.com/app/profile/ayushi5056/vizzes">
   <img align="left" alt="Tableau" width="100px" src="https://img.shields.io/badge/Tableau-E4405F?style=for-the-badge&logo=tableau&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/ayushiborkar19/">
-  <img align="left" alt="Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 <a href="https://www.cloudskillsboost.google/public_profiles/8cafa979-ec4b-4ade-b1db-dad4e6b58094">
   <img align="left" alt="Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
+</a>
+<a href="https://www.instagram.com/ayushiborkar19/">
+  <img align="left" alt="Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <br><br>
 
