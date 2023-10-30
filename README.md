@@ -31,6 +31,7 @@
 <h3><b><samp>Certificates:</samp></b></h3>
 Google Data Analytics Professional Certificate 
    <a href="https://www.coursera.org/account/accomplishments/verify/AZ9MJ78RV879">
+     <img src="https://github.com/ayushiborkar/ayu/blob/main/images/coursera-logo.png" alt="drawing" width="70"/>
    </a>
 </div>
 
