@@ -30,6 +30,8 @@
 <div>
 <h3><b><samp>Certificates:</samp></b></h3>
 Google Data Analytics Professional Certificate 
+   <a href="https://www.coursera.org/account/accomplishments/verify/AZ9MJ78RV879">
+   </a>
 </div>
 
 ##
