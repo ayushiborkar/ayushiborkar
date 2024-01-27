@@ -96,7 +96,7 @@ Google Data Analytics Professional Certificate
   
 ## ✍️ Blogs: 
 <!-- BLOG-POST-LIST:START -->
-- [Meditation for overall wellbeing](https://wisdomofeast.wordpress.com/)
+- [Data visualisation in R](https://wisdomofeast.wordpress.com/)
 <!-- BLOG-POST-LIST:END --> 
 
 <hr> 
