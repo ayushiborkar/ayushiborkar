@@ -15,6 +15,9 @@
 <a href="https://www.cloudskillsboost.google/public_profiles/8cafa979-ec4b-4ade-b1db-dad4e6b58094">
   <img align="left" alt="Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
 </a>
+<a href="https://discuss.google.dev/u/ayushi_borkar/summary">
+  <img align="left" alt="Googledev" width="100px" src="https://img.shields.io/badge/Googledev-F5CD0E?style=for-the-badge&logo=Googledev&logoColor=black" />
+</a>
 <br><br>
 
 # <p align="center"><h4 align="center"><samp> Data Science, Machine Learning </samp></h4></p>
